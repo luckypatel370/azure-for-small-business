@@ -185,9 +185,9 @@ With this system, EasyMart helps businesses save time, improve customer satisfac
 
 ## 🤝 Contributors
 Big thanks to **Group 3** for making EasyMart possible:  
-- **Lucky Patel:** Designed the vision and pipeline.  
-- **Arlin George:** Built the cloud architecture.  
-- **Ritika:** Managed the final architecture and content.
+- **Ritika** Designed the vision and idea 💡 
+- **Arlin George:** Built the pipeline and base model. 
+- **Lucky Patel:** Managed the final architecture and content.
 
 ---
 
